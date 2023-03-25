@@ -22,6 +22,7 @@ function preload(){
 }
 
 function setup() {
+  //creating canvas size
   createCanvas(1350,625);
   //make the ground
   ground= createSprite(670,300);
